@@ -5,9 +5,9 @@
 
 -->
 
-- 🔭 I’m currently working on boopes, a C library for OOP in embedded systems
+- 🔭 I’m currently working on boopes, a C library for OOP in embedded systems along with SimpleCC, a compiler for a programming language i made.
 - 👯 I’m looking to collaborate on anything in C, C++, c#
 - 🤔 I’m looking for help with boopeslib, the standard library wrapper for boopes
 - ⚡ Fun fact: you can use pointers in c# with the unsafe keyword on a method/other block of code
 
-For programming I use vim, with nerdtree and coc.nvim for C++, or if im feeling lazy i use vscode.
+For programming I use vim, with nerdtree and coc.nvim for C++, and no desktop. I use a straight linux terminal.
